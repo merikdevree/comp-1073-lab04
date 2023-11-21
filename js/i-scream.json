@@ -33,5 +33,25 @@
             "Vanilla Base"
         ],
         "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Mystery",
+        "calories": 500,
+        "type": "ice-cream",
+        "ingredients": [
+            "Gum Balls",
+            "Sprinkles",
+            "Unidentified"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Cookie Dough",
+        "calories": 600,
+        "type": "ice-cream",
+        "ingredients": [
+            "Cookie Dough",
+            "Chocolate Chips",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
     }]
 }
